@@ -9,7 +9,7 @@
 | 规范               | 对应扫描工具 |最后修订日期 |
 | ------------------ | ----------- |------------ |
 | [golang最佳实践](./i18n_go.md)     | i18nChecker  | 2022-12-08  |
-| [Java最佳实践](./i18n_go.md)     | i18nChecker  | 2022-12-08  |
+| [Java最佳实践](./i18n_java.md)     | i18nChecker  | 2022-12-08  |
 | [php最佳实践](./i18n_go.md)     | i18nChecker  | 2022-12-08  |
 | [C/C++最佳实践](./i18n_go.md)     | i18nChecker  | -  |
 | [javascript最佳实践](./i18n_go.md)     | i18nChecker  | -  |
