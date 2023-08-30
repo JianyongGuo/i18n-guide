@@ -1,4 +1,10 @@
 #!encoding:utf-8
+"""
+Usage: 
+    example 1: python i18n_checker_python.py  ./
+    example 2: python i18n_checker_python.py  /home/user/workspace/some_project
+"""
+
 import os
 import json
 import sys
