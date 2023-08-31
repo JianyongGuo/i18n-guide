@@ -14,7 +14,7 @@ wget http://git.xiaojukeji.com/international/icu4g/raw/master/tools/i18n_checker
 python i18n_checker_python.py ./
 
 2. 检查某个目录
-python i18n_checker_python.py /home/xiaoju/my_project/model
+python i18n_checker_python.py /home/work/my_project/model
 
 ```
 
