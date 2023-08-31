@@ -3,7 +3,7 @@
 ```
 使用方法：
 下载脚本
-wget http://git.xiaojukeji.com/international/icu4g/raw/master/tools/i18n_checker_rules/i18n_checker_python.py
+wget https://github.com/JianyongGuo/i18n-guide/blob/master/i18n_checker/i18n_checker_python.py
 
 
 ```
